@@ -1,0 +1,17 @@
+233059_Saurabh Patil
+
+Bussiness Entities for Online ticket booking system
+
+1.User : user shoud have the attributes ueser name,uesr id, user mobile no,user password
+
+2. user manages mode means of transportation
+ user should also have relation with the customer, train/airplane transportation companies, fare to be decided
+
+3. Mode of transport: suc as bus,train or flight
+	each having unique id , date of arrival, date of departure, name, and location
+
+4.Fare: user should be able to decide the amount of fare in cpmpliance with the govt and transportation authorities
+
+5.Customer : Customer will have his own cust_id, name,password, phone no ,email and so on
+
+6.User has tasks to perform: such as ,maintain the site,provide any updates

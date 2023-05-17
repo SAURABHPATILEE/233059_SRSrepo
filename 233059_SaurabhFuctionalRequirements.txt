@@ -1,0 +1,32 @@
+
+233059_Saurabh Patil
+Functional Requirements for Online ticket Booking system
+## Functional requirements mainly include how the web application would perform
+What will be its functionalities and how shoulb the web app became sustainable for 
+Long time
+
+Functional Requirements are as Follows:
+
+1.)	User registration and login 
+2. Customer should be able to choose the mode of transport
+3.)Admin department to handle the faq’s and request of the clients
+
+4. Having a separate hoem page for each mode of transport
+
+5. Payment gateway system:
+User can choose the mode of payment via credit/debit  cards or upi transcation
+
+6.)Reports and Analysis
+Reports of the how much user has registered , what are ltickets available,
+What changes needs to be done in the system, mainatanace report, GAANT chart, tables
+Should be submitted
+
+Bussiness Operartions:
+
+1. Bussiness Operations would include 
+  user should be able to see the user flight.train details to manage the requirements of the client
+2. On accessing the home page customer should be able to traverse thorugh the various options provided by the application
+ and on aceessing he should be able to perform operations ac to its feasibility
+3.User should be able to handle the queries, faq's and maintenance related issues to avoid the server breakdown
+
+

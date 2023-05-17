@@ -1,0 +1,34 @@
+233059_SaurabhPatil
+
+Table creation commands
+ create table user(
+userid int primary key,
+username varchar(30) not null
+mobileno double(12,2) not null unique
+);
+
+create table customer(
+customername varchar(30),
+emailid varchar(30),
+phone no  double(12,20) unique
+);
+
+create table registration(
+reg_id int primary key,
+reg_passwd varchar(30),
+email varchar(30),
+customername varchar,
+constraint f12 foreign key(customername) references customer(customername)
+on delete set null
+on update cascade
+);
+
+create table train/flight(
+name varchar(30) not null,
+id int not null unique,
+doa date,
+dod date,
+primary key(name,id)
+
+
+);
